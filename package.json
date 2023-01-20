@@ -1,0 +1,14 @@
+{
+  "name": "sass_basic",
+  "version": "1.0.0",
+  "description": "modern portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive "
+  },
+  "author": "f1lth",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
