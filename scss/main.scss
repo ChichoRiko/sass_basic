@@ -1,5 +1,5 @@
 @import 'config';
-@import 'menu';
+
 
 $primary-color: #444;
 $secondary-color: #eeb51a;
@@ -93,3 +93,4 @@ main{
         }
     }
 }
+@import './menu';
